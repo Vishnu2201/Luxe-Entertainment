@@ -46,7 +46,7 @@
         
         <div class="row">
           <div class="col-md-8">
-            <form class="contact-form" action="index.php" method="post">   
+            <form class="contact-form" action="inde.php" method="post">   
               
                       <div class="col-md-4">
                 
